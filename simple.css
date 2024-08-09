@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Sankofa+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Sankofa+Display&display=swap');
+*{
+    background-color:cornsilk;
+}
+pre b{
+    font-size: xx-large;
+}
+.git p{
+    font-weight: 70%;
+}
+pre input{
+    text-align: left;
+    border-radius: 40px;
+}
+.git{
+    display: flex;
+    align-items: space-between;
+
+}
+.git nav h2{
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+    font-family: 'Sankofa Display';
+
+}
+#nav-doc{
+    padding-left: 20%;
+}
+#nav-comu{
+    padding-left: 20%;
+}
+#nav-img{
+    padding-left: 20%;
+}
+.nav button{
+    border-radius: 40%;
+    cursor: pointer;
+}
+.git img{
+    padding-left: 17%;
+    padding-bottom: 3%;
+    cursor: pointer;
+}
